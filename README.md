@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CurrentPythonCoder
+- 👀 I’m interested in Python, Coding, Science, and most importantly Robotics!
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have autism.
